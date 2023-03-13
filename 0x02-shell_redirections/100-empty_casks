@@ -1,2 +1,2 @@
 #!/bin/bash
-find ~/lists -empty
+find . -mindepth 1 -type f d
